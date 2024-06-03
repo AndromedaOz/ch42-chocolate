@@ -1,0 +1,11 @@
+/* CSS type Selector */
+body {
+    background-color: black;
+    color: rgb(225, 220, 243);
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+h1 {
+    color: blue;
+
+}
